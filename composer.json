@@ -1,0 +1,13 @@
+{
+    "name": "naren/project-transport",
+    "authors": [
+        {
+            "name": "Kukoolol",
+            "email": "nakarlekar@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^10.43",
+        "opencage/geocode": "^3.2"
+    }
+}
